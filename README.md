@@ -336,7 +336,7 @@ echo "# Learning_04_React" >> README.md
 - interface and static member
 [back to top](#top)
 
-# <a id="06" ></a>Learning_06_Creating_ReactApp
+# <a id="06" ></a>Learning_06_Creating_ReactApp_ReduxSaga
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
