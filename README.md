@@ -1,7 +1,15 @@
-# Table of Contents
-[01_Learning_github](#test)
+# <a id="top">Skip to content
+- [01_Learning_github](#01)
+- [02_Learning_css_html](#02)
+- [03_Learning_python](#03)
+- [04_Learning_react](#04)
+- [05_Learning_with_David_Choi](#05)
+- [06_Learning_create-reactapp](#06)
+- [07_Learning_javascript](#07)
 
-# Learning_01_github[#test]
+[back to top](#top)
+
+# <a id="01"></a>Learning_01_github
 
 ## GIT and Github
 
@@ -33,8 +41,9 @@ clone the repository https://github.com/ejb3ck3tt/Learning_01_github.git
 ## Helpful reference:
 https://docs.github.com/en/get-started/using-git/about-git
 
+[back to top](#top)
 
-# Learning_02_CSSHTML
+# <a id="02"></a>Learning_02_CSSHTML
 Learning the Fundamentals of CSS and HTML by creating a simple projects and practice environments. 
 
 ## Description
@@ -202,11 +211,12 @@ Copy and paste the below code:
     ]
 }
 ```
-
 ## 13 Sass Portfolio Website project
 A mini portfolio website project using sass.
 
-# Learning_03_python
+[back to top](#top)
+
+# <a id="03"></a>Learning_03_python
 Python uni projects, exercises, and practice collection
 
 # How to run the project
@@ -293,8 +303,9 @@ Python uni projects, exercises, and practice collection
 📁 ReadFiles
   <p>Different ways on how to load and read files</p>
 
+[back to top](#top)
 
-# Learning_04_React
+# <a id="04"></a>Learning_04_React
 Learning the Fundamentals of React ts
 
 Additional docs on how to clone a repository [How to clone a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)
@@ -319,14 +330,14 @@ echo "# Learning_04_React" >> README.md
 <em>Learning and understanding classes, events, props, refs, and state.</em>
 - <strong>Redux-ts</strong>
 <em>Learning and understanding how redux works, structure, and consuming data via API</em>
+[back to top](#top)
 
-
-# Learning_05_ReactTs_with_DavidChoi
+# <a id="05"></a>Learning_05_ReactTs_with_DavidChoi
 - interface and static member
+[back to top](#top)
 
-
-# Learning_06_Creating_ReactApp
-# Getting Started with Create React App
+# <a id="06" ></a>Learning_06_Creating_ReactApp
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -372,3 +383,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# <a id="07" ></a>Learning_06_JavaScript
+- Learning and practice
+
+[back to top](#top)
