@@ -203,3 +203,89 @@ Copy and paste the below code:
 ## 13 Sass Portfolio Website project
 A mini portfolio website project using sass.
 
+# Learning_03_python
+Python uni projects, exercises, and practice collection
+
+# How to run the project
+- Download VSCode - https://code.visualstudio.com/
+- Install VSCode python extension
+- Install python 3 (recommended) - www.python.org/
+  <p>If you are using MacOS, it is recommended to install python3 via homebrew - https://brew.sh/</p>
+  <p>In MacOS, ensure the location of your VSCode is included in your PATH environment variable</p>
+  - Launch VSCode
+  - On your command palette (CMD + Shift + p) then search for "install code command in PATH"
+  - Restart your terminal to use the new path
+- Install a python interpreter, it can be (cPython, Iron python, jython, pypy, pythonNet, stackless python)
+
+# How to run REPL on VSCode
+<p>REPL stands for Read Evaluate Print Loop. It allows you to test out your code and run commands easily</p>
+  - Activate command palette (CMD + Shift + p)
+  - Find and select "Start REPL"
+
+# How to check your python version
+<p>On your terminal type:</p>
+  <code>python3 --version</code>
+
+# How to check your current interpreter
+<p>You can use python or REPL to check your current interpreter</p>
+  <code>import sys</code>
+  <code>print(sys.version)</code>
+
+# Execute your code by:
+  <p>typing:
+  <code>python filename.py</code>
+  or by simply clicking the play button on top right corner of your VSCode.</p>
+
+# Table of contents
+
+📁 Bus Problem
+- bus.py
+  <p>Caculate how many teams can be taken to the tournament</p>
+- hirebus.py
+  <p>calculate the number of big buses that should be hired</p>
+  
+📁 Marks
+- marks.py
+  <p>Write a program that asks the user for a number of marks, and prints the grade awarded.</p>
+
+📁 Numbers
+- booking.py
+  <p>Write a program that the box office can use to make sure only 100 seats are sold</p>
+- countEvens.py
+  <p>Program that reads a whole number until a negative number is entered and prints the number of
+  even numbers that were entered</p>
+- isqrt.py
+  <p>Write a function that computes the integer square root of its argument</p>
+- minmax.py
+  <p>A function that given a list, returns both the minimum and maximum values in the list.</p>
+- median.py
+  <p>A program that allows the user to enter numbers until a blank line is entered instead of number, and then prints the median</p>
+
+📁 String
+- longest.py
+  <p>prints the longest string that was entered</p>
+- nodigits.py
+  <p>A function that returns True if and only if its string argument contains no digits</p>
+- sortlist.py
+  <p>prints all of the strings sorted into ascending order.</p>
+- palindrome.py
+  <p>A function that accepts a string as its argument and returns True if and only if the string is a palindrome.</p>
+
+📁 Voting
+- candidates.py
+  <p>a program that inputs the numbers of votes for each candidate in the first election and declares its result, either: • the name of the outright winner, or • the names of the two or three candidates to be voted on in the next round of voting.</p>
+
+📁 Wage
+- salary.py
+  <p>A program that calculate the wages plus bonus for a salesperson in a week.</p>
+
+📁 Loops
+- loops.py
+  <p>Understand loops and count execution with range</p>
+
+📁 Grid
+- xo.py
+  <p>Create rows and columns with XO</p>
+
+📁 ReadFiles
+  <p>Different ways on how to load and read files</p>
